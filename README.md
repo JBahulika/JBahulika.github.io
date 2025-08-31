@@ -1,7 +1,12 @@
 # Hi there, I'm J Bahulika 👋
 
+- **Portfolio:** **[jbahulika.github.io](https://jbahulika.github.io/index.html)**
+
 <a href="https://www.linkedin.com/in/j-bahulika-8b8237207/">
   <img align="left" alt="J Bahulika's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/JBahulika">
+  <img align="left" alt="J Bahulika's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="filter: invert(70%) sepia(80%) saturate(2000%) hue-rotate(0deg) brightness(100%) contrast(100%); background-color: white; border-radius: 3px; padding: 1px;" />
 </a>
 <a href="https://jbahulika.github.io/index.html">
   <img align="left" alt="J Bahulika's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
@@ -10,12 +15,19 @@
 <br />
 <br />
 
-I'm a final-year Artificial Intelligence & Machine Learning student(2026 grad) from Bengaluru, with a strong passion for building intelligent systems and solving complex problems with data. I thrive on turning data into actionable insights and creating practical AI-powered applications.
+I'm a final-year Artificial Intelligence & Machine Learning student from Bengaluru, with a strong passion for building intelligent systems and solving complex problems with data. I thrive on turning data into actionable insights and creating practical AI-powered applications.
 
 - 🌱 I’m currently deepening my knowledge in **Deep Learning**, **MLOps**, and **Large Language Models (LLMs)**.
 - 🔭 I’m actively seeking full-time opportunities in **Data Science** and **Machine Learning Engineering**.
 - 💬 Feel free to ask me about Python, Machine Learning models, or Data Analysis techniques.
-- 📫 You can reach me at: **jbahulika@gmail.com**
+
+---
+
+### 🔗 Connect with Me
+- **Portfolio:** **[jbahulika.github.io](https://jbahulika.github.io/index.html)**
+- **GitHub:** **[github.com/JBahulika](https://github.com/JBahulika)**
+- **LinkedIn:** **[linkedin.com/in/j-bahulika](https://www.linkedin.com/in/j-bahulika-8b8237207/)**
+- **Email:** **[jbahulika@gmail.com](mailto:jbahulika@gmail.com)**
 
 ---
 
